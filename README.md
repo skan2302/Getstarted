@@ -1,2 +1,0 @@
-# Getstarted
-My first repository
