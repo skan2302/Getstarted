@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Skander</title>
+  </head>
+  <body>
+    <nav>
+        <a href="./home.html">Home</a>
+        <a href="./contact.html">contact</a>
+      </nav>
+      <nav>
+        <ul>
+          <li><a href="#Home">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#work">Work</a></li>
+          <li><a href="#resume">Resume</a></li>
+        </ul>
+      </nav>
+      <div id="Home">
+        <h2>Home</h2>
+         <p>Hi, I'm Skander! </p>
+        <h4>A full-stack Developer</h4>
+      </div>
+      <div id="about">
+        <h2>About Me</h2>
+        <p>My name is Skander, I'm 27 years old and I'm an electric engineer. Due to the digital transition in the world nowadays, I decided to start a full-stack course with GoMyCode in order to learn the best languages and tools to become a successful programer. I'm happy to share with you, readers my first work.</p>
+        <a href="https://www.facebook.com/skander.bazarbacha/" target="_blank">Learn More</a>  
+      </div>     
+      <div id="work">
+            <h2>Work</h2>
+            <img src="https://hackernoon.com/hn-images/1*9npNPVH7iNJ64Koq7EcW5A.jpeg" />
+            <iframe
+              width="420"
+              height="315"
+              src="https://www.youtube.com/embed/zcTFG_F0FRs">
+            </iframe>
+            <p></p>
+      </div>
+      <div id="resume">
+          <h2>Resume</h2>
+          <audio controls>
+            <source src="nu-man-o-to-original-mix.mp3" type="audio/mp3">
+          </audio>
+          <img src="https://scontent.ftun1-1.fna.fbcdn.net/v/t1.0-9/85033281_10221540337728283_6006603817490055168_n.jpg?_nc_cat=102&_nc_sid=09cbfe&_nc_ohc=AYnQlS2aD54AX9O1lKw&_nc_ht=scontent.ftun1-1.fna&oh=ab1e8c685b2a640b3ad56c48eb26d910&oe=5F0558FE" />
+          <footer>
+            <p>Posted by: Skander Bazarbacha</p>
+            <p>Contact information: <a href="skan2302@gmail.com">
+            skan2302@gmail.com</a>.</p>
+          </footer>
+        </div>
+          
+ </body>
+          
